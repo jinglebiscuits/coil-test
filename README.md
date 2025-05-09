@@ -1,0 +1,1 @@
+This is just a simple app to test the functionality of coil's svg rendering. It is useful for discerning if your project that uses coil is the cause of svg rendering issues, or if it is coil's library.
